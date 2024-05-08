@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* dashboard */
+
+section h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #44008B;
+    margin-left: 50px;
+    margin-top: 40px;
+
+
+}
+
+
+.btn-senha {
+    background-color: #a849bb;
+    color: white;
+
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    margin-left: 260px;
+    margin-top: 18px;
+    gap: 40px;
+
+
+}
+
+.card-header {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+
+
+}
+
+.card-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+
+}
+
+.card-number {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 70px;
+
+
+}
+
+.card-body {
+    width: 440px;
+    height: 220px;
+}
+
+.card-1 {
+    background-color: #FAD256;
+    color: white;
+
+}
+
+.card-2 {
+    background-color: #E963AC;
+    color: white;
+
+
+}
+
+.card-3 {
+    background-color: #84B6F4;
+    color: white;
+
+}
+
+.card-4 {
+    background-color: #A779F6;
+    color: white;
+
+}
+
+
+.card-1 img {
+    float: right;
+}
+
+.card-2 img {
+    float: right;
+}
+
+.card-3 img {
+    float: right;
+}
+
+.card-4 img {
+    float: right;
+}
+
+/* alerta */
+
+
+.alerta{
+
+    margin: 0 auto;
+    padding-bottom: 10px;
+    width: 80%;
+  }
+  .alert{
+    height: 3rem;
+  }
+
+/* listar */
+section{
+    background-color: white !important;
+    margin: 10px;
+    border-radius: 20px;
+  }
+  .page-link{
+    color: black !important;
+    border: none !important;
+  }
+.btn-cadastro{
+    background-color: #44008B;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    
+} 
+.btn-listar{
+    background-color: #44008B;
+    
+}
+
